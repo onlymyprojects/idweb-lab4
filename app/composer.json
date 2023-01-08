@@ -1,0 +1,11 @@
+{
+    "name": "bogdanbobeico/project",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bogdanbobeico\\Project\\": "src/"
+        }
+    }
+}

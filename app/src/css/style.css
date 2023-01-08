@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid red; */
+}
+
+img {
+    width: 150px;
+    margin: 10px;
+}
+
+.block {
+    border: 3px solid #E5E5E5;
+    text-align: center;
+    margin-top: 20px;
+    transition: .3s;
+}
+
+.block:hover {
+    box-shadow: 0 0 10px grey;
+    transition: .3s;
+}
+
+h1 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+h1 hr {
+    border: 7px solid rgb(0, 60, 128);
+}
+
+.input-group-text {
+    width: 125px !important;
+    justify-content: center;
+}
+
+h5 span {
+    color: white;
+}
+
+.number {
+    background: black;
+    border-radius: 5px;
+    padding: 0px 7px 3px 7px;
+}
